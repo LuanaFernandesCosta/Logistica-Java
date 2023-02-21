@@ -21,9 +21,14 @@ JRE - software responsável para que o programa funcione corretamente.
     Nesse tópico serão mostradas as principais telas do sistema seguindo de suas funcionalidades.
 
 # 4.1 Login
-Inicialmente o sistema inicia na tela de “Login” onde o usuário irá entrar com seus dados de autenticação, como mostrado na figura 3.
+&nbsp;&nbsp;&nbsp;&nbsp; Inicialmente o sistema inicia na tela de “Login” onde o usuário irá entrar com seus dados de autenticação, como mostrado na **figura 3**.
 
-![image](https://user-images.githubusercontent.com/80860518/220368972-4609c122-41b8-42a4-84f7-44b353032d59.png)
+<img src="https://user-images.githubusercontent.com/80860518/220368972-4609c122-41b8-42a4-84f7-44b353032d59.png" alt="Tela de login" title="Clique para ampliar">
+<p align="center"> 
+    <b>Figura 3 - Tela de login</b> 
+  </p> 
+</img>
+
 
 # 4.1. Erro ao Logar
 Na figura 4 é mostrado a mensagem de falha ao tentar logar caso o usuário informe seus dados incorretamente.
