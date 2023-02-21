@@ -34,6 +34,9 @@ Na figura 4 é mostrado a mensagem de falha ao tentar logar caso o usuário info
 # 4.2. Tela inicial
 A tela inicial do sistema é composta por um cabeçalho contendo a logo da empresa, nome do usuário e o botão de sair (logout), rodapé no final da página contendo o nome do desenvolvedor do sistema. Figura 5.
 
+![image](https://user-images.githubusercontent.com/80860518/220371646-cdd68bd1-eff3-4cde-a235-e170c97dce4f.png)
+
+
 # 4.3 Menu 
     No menu 5 menus e seus submenus.
     
@@ -70,4 +73,6 @@ A tela inicial do sistema é composta por um cabeçalho contendo a logo da empre
 •	Produtividade e abastecimento
 
 •	Contratos
+
+![image](https://user-images.githubusercontent.com/80860518/220372114-0a340b3c-f35e-46c9-a5df-5d8c227c8b8a.png)
 
