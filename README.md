@@ -8,9 +8,13 @@ Este artigo descreve como o sistema foi projetado, utilizando diagrama de classe
 
 # 3. Tecnologias Utilizadas
 A seguir serão listadas todas as tecnologias utilizadas no desenvolvimento do sistema SIG.
+
 Java – Linguagem de programação utilizada para o desenvolvimento do sistema.
+
 NETBEANS IDE – para o desenvolvimento da aplicação desktop Java.
+
 SQL – Linguagem do banco de dados utilizado.
+
 JRE - software responsável para que o programa funcione corretamente.
 
 # 4. Interface do sistema
