@@ -1,24 +1,26 @@
 # Sistema Integrado de Gestão - SIG (Sistema em andamento)
-SIG é um sistema desktop criado para controle de locação de caçambas e atendimento a solicitação de clientes, que tem como papel agilizar o processo logístico do setor de caçambas/ transportes.
-Este artigo descreve como o sistema foi projetado, utilizando diagrama de classes para exibição da arquitetura do projeto e a modelagem de banco de dados para exibir relacionamentos entre as tabelas do banco de dado, tecnologias utilizadas também como as funcionalidades do sistema.
-#1. Diagrama de Classe
-    A figura 1 descreve a estrutura do sistema SIG modelando suas classes descrevendo seus atributos e as relações entre objetos.
-# 2. Diagrama E-R - Modelo de banco de dados
-    A figura 2 representa graficamente as entidades e seus relacionamentos com as demais entidades do banco de dados.
+&nbsp;&nbsp;&nbsp;&nbsp;SIG é um sistema desktop criado para controle de locação de caçambas e atendimento a solicitação de clientes, que tem como papel agilizar o processo logístico do setor de caçambas/ transportes.
 
-# 3. Tecnologias Utilizadas
-A seguir serão listadas todas as tecnologias utilizadas no desenvolvimento do sistema SIG.
+&nbsp;&nbsp;&nbsp;&nbsp;Este artigo descreve como o sistema foi projetado, utilizando diagrama de classes para exibição da arquitetura do projeto e a modelagem de banco de dados para exibir relacionamentos entre as tabelas do banco de dados, tecnologias utilizadas e as funcionalidades do sistema.
 
-Java – Linguagem de programação utilizada para o desenvolvimento do sistema.
+## 1. Diagrama de Classe
+&nbsp;&nbsp;&nbsp;&nbsp;A figura 1 descreve a estrutura do sistema SIG modelando suas classes descrevendo seus atributos e as relações entre objetos.
+## 2. Diagrama E-R - Modelo de banco de dados
+&nbsp;&nbsp;&nbsp;&nbsp;A figura 2 representa graficamente as entidades e seus relacionamentos com as demais entidades do banco de dados.
 
-NETBEANS IDE – para o desenvolvimento da aplicação desktop Java.
+## 3. Tecnologias Utilizadas
+&nbsp;&nbsp;&nbsp;&nbsp;A seguir serão listadas todas as tecnologias utilizadas no desenvolvimento do sistema SIG.
 
-SQL – Linguagem do banco de dados utilizado.
+- ***Java*** – Linguagem de programação utilizada para o desenvolvimento do sistema.
 
-JRE - software responsável para que o programa funcione corretamente.
+- ***NETBEANS IDE*** – para o desenvolvimento da aplicação desktop Java.
+
+- ***SQL*** – Linguagem do banco de dados utilizado.
+
+- ***JRE*** - software responsável para que o programa funcione corretamente.
 
 # 4. Interface do sistema
-    Nesse tópico serão mostradas as principais telas do sistema seguindo de suas funcionalidades.
+&nbsp;&nbsp;&nbsp;&nbsp;Nesse tópico serão mostradas as principais telas do sistema seguindo de suas funcionalidades.
 
 # 4.1 Login
 &nbsp;&nbsp;&nbsp;&nbsp; Inicialmente o sistema inicia na tela de “Login” onde o usuário irá entrar com seus dados de autenticação, como mostrado na **figura 3**.
