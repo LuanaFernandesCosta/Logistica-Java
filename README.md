@@ -7,7 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;A figura 1 descreve a estrutura do sistema SIG modelando suas classes descrevendo seus atributos e as relações entre objetos.
 ## 2. Diagrama E-R - Modelo de banco de dados
 &nbsp;&nbsp;&nbsp;&nbsp;A figura 2 representa graficamente as entidades e seus relacionamentos com as demais entidades do banco de dados.
-![Untitled](https://github.com/user-attachments/assets/f4a787bd-2fc9-45e8-b5dd-e5ec001e1a55)
+![Sem título](https://github.com/user-attachments/assets/47168ba3-ac28-463b-9d96-00c61df69e73)
+
 
 ## 3. Tecnologias Utilizadas
 &nbsp;&nbsp;&nbsp;&nbsp;A seguir serão listadas todas as tecnologias utilizadas no desenvolvimento do sistema SIG.
